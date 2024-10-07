@@ -1,0 +1,15 @@
+.container-navbar {
+  background-color: aqua;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container-navbar ul {
+  display: flex;
+  gap: 15px;
+  list-style: none;
+}
+.container-navbar img {
+  width: 400px;
+}
